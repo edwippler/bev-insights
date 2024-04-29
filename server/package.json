@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@mikro-orm/core": "^6.1.12",
+    "@mikro-orm/reflection": "^6.1.12",
+    "@mikro-orm/sqlite": "^6.1.12",
+    "fastify": "^4.26.2"
+  },
+  "devDependencies": {
+    "@mikro-orm/cli": "^6.1.12",
+    "@types/node": "^20.12.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.4",
+    "vitest": "^1.4.0"
+  },
+  "name": "bevinsights",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
